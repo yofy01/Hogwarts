@@ -1,0 +1,33 @@
+goto_search:
+  - by: xpath
+    locator: '//*[contains(@resource-id, "action_search")]'
+    action: click
+
+search:
+  - by: xpath
+    locator: '//*[@resource-id="com.xueqiu.android:id/search_input_text"]'
+    action: send
+    value: "${stock_name}"
+  - by: xpath
+    locator: '//*[@text="${stock_code}"]'
+    action: click
+
+add_choose:
+  - by: xpath
+    locator: '//*[@text="${stock_code}"]/../../..//*[@text="加自选"]'
+    action: click
+
+is_choose:
+  - by: xpath
+    locator: '//*[@text="${stock_code}"]/../../..//*[@text="已添加"]'
+    action: len > 1
+
+reset_choose:
+  - by: xpath
+    locator: '//*[@text="${stock_code}"]/../../..//*[@text="已添加"]'
+    action: click
+
+cancel:
+  - by: xpath
+    locator: '//*[@text="取消"]'
+    action: click

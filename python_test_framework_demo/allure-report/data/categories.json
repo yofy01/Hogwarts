@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Exception: oops",
+      "children" : [ {
+        "name" : "test_broken",
+        "uid" : "7b55049cce02f208",
+        "parentUid" : "9ccb77682e816c39e9e1f2d796787467",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618281539641,
+          "stop" : 1618281539641,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9ccb77682e816c39e9e1f2d796787467"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

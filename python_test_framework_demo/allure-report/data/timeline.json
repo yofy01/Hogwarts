@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "摩羯座",
+    "children" : [ {
+      "name" : "10172-MainThread",
+      "children" : [ {
+        "name" : "test_broken",
+        "uid" : "7b55049cce02f208",
+        "parentUid" : "633206588b70af441a4f00a110e26822",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618281539641,
+          "stop" : 1618281539641,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_skip",
+        "uid" : "832537f6797735e5",
+        "parentUid" : "633206588b70af441a4f00a110e26822",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1618281539636,
+          "stop" : 1618281539636,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_success",
+        "uid" : "195563553ccc368b",
+        "parentUid" : "633206588b70af441a4f00a110e26822",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618281539486,
+          "stop" : 1618281539486,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "633206588b70af441a4f00a110e26822"
+    } ],
+    "uid" : "0865d9c5f556a7a87050d28f095cea79"
+  } ]
+}

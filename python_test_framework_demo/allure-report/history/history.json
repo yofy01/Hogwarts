@@ -1,0 +1,61 @@
+{
+  "7812e6fc90f9137192729b4b9a4dd624" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "195563553ccc368b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618281539486,
+        "stop" : 1618281539486,
+        "duration" : 0
+      }
+    } ]
+  },
+  "29ad96fcd3c848cacb90bebc8f9e356e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "832537f6797735e5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a reason!",
+      "time" : {
+        "start" : 1618281539636,
+        "stop" : 1618281539636,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d74c2eccb7b85d4a6bbf3dfe002b7f6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b55049cce02f208",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1618281539641,
+        "stop" : 1618281539641,
+        "duration" : 0
+      }
+    } ]
+  }
+}

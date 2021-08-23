@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8b47bf6-ccc2-4b65-8b12-96825c03891c" name="Default Changelist" comment="2021-8-6 pychram提交到github测试">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/addresslist_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/contact_add_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/member_invite_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testcases/test_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/base_appium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_appium_web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_dwpytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_hamrest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_locator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_touch_action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_test/test_wework_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/main.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/market.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/search.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/page/wrapper_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/search_data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/test_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/test_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/test_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/test_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_xueqiu/testcases/test_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/test-cases/195563553ccc368b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/test-cases/7b55049cce02f208.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/test-cases/832537f6797735e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/clear" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/test-cases/4a276c4b861dfdb3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/test-cases/4bfb3672db5e022e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/test-cases/6033dfa9e6206f87.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/test-cases/b12436c40279123d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/report/13/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/resource/9 数据驱动.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/resource/多啦A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/15ebf33b-c5f1-4566-9b0b-424e36c581f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/28287d37-ad68-4da7-8a5c-fe8214320aad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/2c3246c8-529f-47c4-9087-980d875f040f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/43570a11-fdcd-4584-90c2-fb0d7832d069-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/60439817-debd-49e7-b3e4-020a85043b68-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/748b910e-6391-414f-99e3-e4ce0606a494-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/7dcef2b3-61c4-4a5d-aa84-0283c019310b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/c80fadc3-76e4-4526-b0b4-4d2a5d161c63-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/d028ece5-59de-4fb8-8b3f-a6fac41823cf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/1/e1c1cc44-0851-4f4c-a2a0-7a07fc83471a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/13/08e9aa19-e526-4028-b3af-be07e44c7992-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/13/321f8f21-95e4-48e3-ade1-d3dba71749da-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/13/4445b734-0869-42a0-b807-fff96bb4c1f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/13/ef70381e-1e25-4b7b-8474-d57556e115f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/00dbd751-1497-4a22-ba17-1a64d20e552e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/05887980-8c53-40d7-b904-852545e066b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/0a32042d-788f-4b44-809b-4196b7d89569-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/0ee023bc-31e9-4f32-969e-257101385c68-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/116c4f6f-2889-41d0-a3bd-006b09621499-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/135a93e8-e476-4f22-8a34-f4e5bc6b8967-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/1d5da1f3-6109-4731-bae7-4aa04fe37d5c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/20515127-ebe5-4b29-aaa2-438445e63d4c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/24ef4e56-ff53-4976-acc7-1654a1083713-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/267c1c27-4099-40d3-8e9c-3cf424c9c9b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/282a1d7a-6812-488d-a5ca-837be00d2650-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/327a3e62-e709-473d-9665-f4cf07321a7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/32c56e9f-a6f9-4895-990e-e6ca3d905d15-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/32cd5765-60ae-4be0-9c8a-6a9ee7044e47-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/362d9cb9-e025-492c-8686-5e0414e7c0ab-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/4d543786-8163-4c3f-8a13-7baedb4ec8d2-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/5670ba26-56cf-4f49-a965-ffaccf155853-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/56f1469e-dcf7-495a-ab76-f2b7d6878f41-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/5769f167-9775-40ef-91b0-a228e10882cd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/588c7a81-9697-4190-815c-a936f4bd8def-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/6347330a-eaa7-4a6a-9810-1080e63026d3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/66f55f49-d78d-4ad3-9401-c9b1874356ae-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/7c35f6b8-2b8c-45d9-9e68-d946907696ca-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/82eb981f-e8c3-4eca-ae8e-da47b95a6308-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/873bb210-d4c3-48f8-969f-ae0ba4fe976f-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/927c182a-14a4-4f90-b1e1-9168b37dd423-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/9638fbcd-2952-44fe-ae97-8ea06897babc-attachment.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/9766106e-6e1f-405a-bbb9-412ab35f5f99-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/9b8dc4c1-672d-4f4c-8413-7db623bfaaa0-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/a373c1bd-4621-49de-9b36-42049510e589-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/a732b882-533e-441a-a302-90e53b16238d-attachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/b3d3a839-c0d3-4d03-bf52-0f1f3fa47cce-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/b8f78ee2-f7e3-4a78-ba50-25fd9628c85b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/b9123892-77a8-4cbf-afa6-dde26be057a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/bdf01e28-3730-4b9a-b145-d4e14b820ee8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/c0bed404-c45c-49a4-b3b1-413ad51faf55-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/c396684b-066d-42cf-96a3-c60da696add9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/c5f508a9-8a93-4db4-a20a-94f654ad93b3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/cd57fb0a-789b-4014-962c-e8b6427c82fd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/dc4ac20f-0815-4cbb-8325-383f31190c0d-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/dd3b5bcf-a44d-4e39-9801-8915f7a679db-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/e7e5c339-8538-4d30-a46f-e9c20d613da9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/ec228881-3f4d-4c2f-94ee-6e5d742b61cf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/f2a9c9ab-44b1-4ec9-89b9-2d89337d2683-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/f65708dd-ff83-4d29-9144-b791f22a48c3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/f8942601-e00e-4e77-9b82-694a1530976c-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/fd567911-0bee-49af-be2a-70f43c4267fb-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/14/feb348f0-2caa-4e83-b759-32f5e0e4189a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/0ce365a8-5eb6-4a26-ba8a-43c1d976b322-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/2809e6eb-f1a4-4e24-a2a5-050de09df291-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/57b515e1-a5c7-44b8-b803-5410ab58e44b-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/83662a91-3e51-4c79-bdb5-e9560c9b1271-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/913196e4-c0e2-4032-a823-d4330f171e24-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/allure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/b6c741b3-a89e-4142-953e-6e67e1306d21-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/bd68dd66-9737-4742-8a56-e2e4941031a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/da6ccb3f-53e9-482f-a40c-1b5f6bfc0b69-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/fdcc28fe-619a-4815-8922-b0f9ecac8db4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/15/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/060d32c2-e692-43db-a08a-d7ed77d65b8d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/14050639-caa7-4dfe-8bc4-d5e07d9c37ce-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/2a658b19-0322-41c1-aae7-d12081b80e81-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/65556657-8725-4d38-a258-eda2a2d670ad-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/73d824d2-a78b-4dee-8df1-53e17d3c7756-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/750b8675-56fb-4084-acbe-9e71d3530905-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/78e57cc1-813b-45bf-9582-7062b4157db8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/843f6a91-a9b1-467d-86e7-e5948b5df6ea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/93f6d2e9-a1da-43fa-a1ed-8b8885e89a7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/9411946d-a0e5-479d-bc3f-e3592c56dd78-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/a14ed155-8e51-41a0-bb63-2e5ecac673a1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/ad9f62c2-fe5c-4184-9e08-2f081e69b563-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/bae8e7fe-f02b-40f8-a48a-e059e154f026-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/bc1e693f-1292-4f35-a32d-3284efb622a0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/d5c0c467-6337-4422-9ad6-9392dbd8ce6f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/de376b87-8993-4ffc-8d42-935a64badddc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/e8dcb1d3-e2c5-40cb-881a-f34671ec4eb7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/19/fec31b62-55cd-407e-8275-bffcb56b12ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/1951facc-644c-4936-ac39-518fb09ddd33-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/2e49492a-703d-4460-936e-7af2abe8c049-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/5c3869e0-d791-431d-9adc-61991baeabcb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/7c13d52f-23f1-4d27-8885-2c33ad7c584a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/80124405-c348-4cc6-81a8-40cedc9b9406-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/86836ca3-d5ec-490a-9b58-5f9861a55987-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/993373d2-49ec-4b83-a5a8-6cd0d0a1bfed-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/b03cdb93-a975-4f4b-9ca6-e72808fe817e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/b42013f9-c443-438f-a41f-b7a0dd721d0b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/bada475b-d574-4191-864e-a821413ff2a4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/bd153fb7-40cb-49bf-abcd-dbd00b178101-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/2/e2d16643-e8ca-427a-a7f8-25fb18454757-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/23a32e18-20da-4398-9c51-267a44f0806b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/37558956-66ef-4af3-8699-38d253529734-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/3fd3d1f4-2d76-456b-bed5-b320e0e17ec7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/461d760f-a95b-43a9-8c14-b8c09c78e0ed-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/6b60e11c-c87e-43db-8211-95cfb17590c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/79ef00f4-f6f3-4e6a-9856-29dae80a48db-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/87e6709a-af3b-465e-964f-bd28eb8d9a8c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/a20cfdc5-c7b0-45f3-90e7-7ac20759565b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/a5443ecc-f7da-4d33-88dc-ec4f7bb56861-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/c04366f3-99ae-40f6-aa1e-39ca8627775e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/dbe92907-2ce6-4f70-a626-6b8264242739-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/3/f59836b5-9446-4154-83c6-e43f4843df7e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/0a56af8d-6617-46fd-936b-1d7e453701b3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/113da06d-db59-433d-bdd5-3b2042c1d62e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/20e5c57a-c11c-4dec-9cef-10843e0468e1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/3c28fcc3-2fa9-4be2-bfe7-1dfa0a240e92-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/49ceb638-a56f-4148-8f22-306545992996-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/58e0a180-2502-4224-90b1-02da0dda55dd-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/82319d96-5a80-42dd-ae70-1642c9adb07e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/92ff46de-7677-40a2-b4f1-3f6742e281bb-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/9493ba25-9343-4a55-939e-36e169864cd3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/99e00d09-3e84-468d-9732-45b1cb24c09b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/a12de6c1-e046-4c60-b6f4-35a586b91502-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/a4a6eaf5-6b80-4233-97e9-0d931b10ea8e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/b03038c9-273e-430e-a2fb-f26bfca10168-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/4/cb0d527a-d25d-4d56-8654-6cbaa5a818e7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/0d15dd28-4e6d-4b07-893b-c5f25779d450-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/10a35fc3-41d2-449c-ab14-00c5d5f0bea0-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/1e74ef63-b666-4d47-a72e-86f9e1d61ee1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/2ca2dd83-9bc9-486e-a9c8-7e28a08be312-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/361670d5-8067-4cfb-b133-e03e4d819118-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/40c73d7e-700d-4c1b-808c-38f7fce22439-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/43754944-2954-474d-923f-7c6eb1eff954-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/598e63cd-095a-4ec4-9f27-a7a187055b6e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/7c9f7739-2a74-46d0-a183-b3c347d2c1e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/862327b4-4d5d-4817-b389-7dd9e13bc12d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/8a156f3b-fcbd-438b-a4f8-783f671c141c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/a62bec07-3617-4778-aec6-05d90d0edc81-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/bb270804-6d8c-437c-8a6d-e7fd4dd2f571-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/ca4898b7-e9b0-4224-a608-8642e66a6980-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/5/df649edd-8a15-4d2d-974f-9ffbfcbd1d9d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/8/cea1ec9f-b857-4315-9786-5909ad9b0633-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/8/ec103a80-0fff-4dd8-a74b-79a303663a7d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/9/d5db95c7-0dbb-4891-b2e0-df29613ec82b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/result/9/f72d442d-37a1-400a-93e6-8516016e559a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_allure_attach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_allure_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_allure_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_fixture_autouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_fixture_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_fixture_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_fixture_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_mark_zi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_parametrize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_test_framework_demo/test_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_login/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_login/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_login/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_login/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_login/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/page/add_member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/page/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/test_case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_wework_main/test_case/test_member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/configuration.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/main.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/test_main.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/page/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/test_case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/test_case/test_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_testramework/test_case/test_main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="JupyterTrust" id="11fd0f82-bd23-4976-9e96-9655dbe62bf9" />
+  <component name="ProjectId" id="1wJXgpl06Z0Pj6UcZWXVM9q0YsP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Hogwarts\appium_xueqiu\testcases" />
+      <recent name="E:\Hogwarts\appium_xueqiu\page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_search.TestSearch.test_search">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hogwarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium_xueqiu/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appium_xueqiu/testcases/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_search.TestSearch.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Hogwarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium_xueqiu/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_search.TestSearch.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_yaml.test_params" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Hogwarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium_xueqiu/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_yaml.test_params&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_yaml.test_yaml" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Hogwarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium_xueqiu/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_yaml.test_yaml&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_yaml.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Hogwarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium_xueqiu/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/appium_xueqiu/testcases/test_yaml.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_search.TestSearch.test_search" />
+        <item itemvalue="Python tests.pytest for test_yaml.test_params" />
+        <item itemvalue="Python tests.pytest for test_yaml.test_yaml" />
+        <item itemvalue="Python tests.pytest in test_yaml.py" />
+        <item itemvalue="Python.__init__ (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8b47bf6-ccc2-4b65-8b12-96825c03891c" name="Default Changelist" comment="" />
+      <created>1628177778515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628177778515</updated>
+      <workItem from="1628177779669" duration="600000" />
+      <workItem from="1628178395202" duration="858000" />
+      <workItem from="1628179270210" duration="52000" />
+      <workItem from="1628179323926" duration="1274000" />
+      <workItem from="1628213725399" duration="1947000" />
+      <workItem from="1628235559261" duration="7999000" />
+      <workItem from="1628302325600" duration="2923000" />
+      <workItem from="1628306681843" duration="1471000" />
+      <workItem from="1628819832797" duration="1188000" />
+      <workItem from="1628821644046" duration="15797000" />
+      <workItem from="1628922650788" duration="694000" />
+      <workItem from="1628923370949" duration="13705000" />
+      <workItem from="1629012619728" duration="19486000" />
+      <workItem from="1629084981215" duration="3333000" />
+      <workItem from="1629103916508" duration="1077000" />
+      <workItem from="1629186663494" duration="15782000" />
+      <workItem from="1629243417638" duration="26656000" />
+      <workItem from="1629333160739" duration="19701000" />
+      <workItem from="1629703901757" duration="15374000" />
+    </task>
+    <task id="LOCAL-00001" summary="2021-8-6 pychram提交到github测试">
+      <created>1628178591665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628178591665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2021-8-6 pychram提交到github测试">
+      <created>1628179476684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628179476684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="2048" />
+    <MESSAGE value="2021-8-6 pychram提交到github测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-8-6 pychram提交到github测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="790" y="119" key="#Inspections" timestamp="1629190768492">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="790" y="119" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1629190768492" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629335081889">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1629335081889" />
+    <state x="508" y="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629723249405">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="508" y="423" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1629723249405" />
+    <state x="835" y="167" key="FileChooserDialogImpl" timestamp="1629296196072">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="835" y="167" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1629296196072" />
+    <state x="639" y="314" width="258" height="280" key="Github.ShareDialog" timestamp="1628179200719">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="639" y="314" width="258" height="280" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1628179200719" />
+    <state width="1496" height="266" key="GridCell.Tab.0.bottom" timestamp="1629725585760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1496" height="266" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629725585760" />
+    <state width="1496" height="266" key="GridCell.Tab.0.center" timestamp="1629725585760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1496" height="266" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629725585760" />
+    <state width="1496" height="266" key="GridCell.Tab.0.left" timestamp="1629725585760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1496" height="266" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629725585760" />
+    <state width="1496" height="266" key="GridCell.Tab.0.right" timestamp="1629725585760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1496" height="266" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629725585760" />
+    <state width="1493" height="283" key="GridCell.Tab.1.bottom" timestamp="1629373712389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629373712389" />
+    <state width="1493" height="283" key="GridCell.Tab.1.center" timestamp="1629373712389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1629373712389" />
+    <state width="1493" height="283" key="GridCell.Tab.1.left" timestamp="1629373712389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1629373712389" />
+    <state width="1493" height="283" key="GridCell.Tab.1.right" timestamp="1629373712389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1629373712389" />
+    <state x="132" y="74" key="SettingsEditor" timestamp="1629251711790">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="132" y="74" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1629251711790" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1628180597789">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1628180597789" />
+    <state x="841" y="491" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628933286664">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="841" y="491" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1628933286664" />
+    <state x="969" y="170" key="save.file.as.template.dialog" timestamp="1629704618449">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="969" y="170" key="save.file.as.template.dialog/0.0.1536.834@0.0.1536.834" timestamp="1629704618449" />
+    <state x="430" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1629721965422">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1629721965422" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_touch_action_TestDw_test_move.coverage" NAME="pytest for test_touch_action.TestDw.test_move Coverage Results" MODIFIED="1628845053941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_search_TestSearch_test_search.coverage" NAME="pytest for test_search.TestSearch.test_search Coverage Results" MODIFIED="1629725506023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_in_test_demo_py.coverage" NAME="pytest in test_demo.py Coverage Results" MODIFIED="1628302676758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_in_test_search_py.coverage" NAME="pytest in test_search.py Coverage Results" MODIFIED="1629334532521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1629336267060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui_testramework/page" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_params_TestParams_test_params.coverage" NAME="pytest for test_params.TestParams.test_params Coverage Results" MODIFIED="1629026181585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_locator_TestDw_test_scroll.coverage" NAME="pytest for test_locator.TestDw.test_scroll Coverage Results" MODIFIED="1628928824858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_locator_TestDw_test_search1.coverage" NAME="pytest for test_locator.TestDw.test_search1 Coverage Results" MODIFIED="1628937275638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_appium_web_TestAppiumWeb.coverage" NAME="pytest for test_appium_web.TestAppiumWeb Coverage Results" MODIFIED="1629044466305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_in_test_yaml_py.coverage" NAME="pytest in test_yaml.py Coverage Results" MODIFIED="1629724467938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_stack_test_stack.coverage" NAME="pytest for test_stack.test_stack Coverage Results" MODIFIED="1629721143677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_in_test_params_py.coverage" NAME="pytest in test_params.py Coverage Results" MODIFIED="1628937219625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_main_TestMain_test_main.coverage" NAME="pytest for test_main.TestMain.test_main Coverage Results" MODIFIED="1629340623163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui_testramework/test_case" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_yaml_test_yaml.coverage" NAME="pytest for test_yaml.test_yaml Coverage Results" MODIFIED="1629724657430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_in_test_main_py.coverage" NAME="pytest in test_main.py Coverage Results" MODIFIED="1629335128483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui_testramework/test_case" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_search_TestSearch.coverage" NAME="pytest for test_search.TestSearch Coverage Results" MODIFIED="1629341696574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_dwpytest_TestDw_test_search.coverage" NAME="pytest for test_dwpytest.TestDw.test_search Coverage Results" MODIFIED="1628825696706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_contact_TestContact.coverage" NAME="pytest for test_contact.TestContact Coverage Results" MODIFIED="1629191170766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_contact_TestContact_test_contact.coverage" NAME="pytest for test_contact.TestContact.test_contact Coverage Results" MODIFIED="1629191715751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_texst_jiaohu_TestJiaoHu_test_mobile.coverage" NAME="pytest for texst_jiaohu.TestJiaoHu.test_mobile Coverage Results" MODIFIED="1629104227323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_wrapper_test_tmp.coverage" NAME="pytest for test_wrapper.test_tmp Coverage Results" MODIFIED="1629261925809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_yaml_test_params.coverage" NAME="pytest for test_yaml.test_params Coverage Results" MODIFIED="1629725491643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_locator_TestDw_test_search.coverage" NAME="pytest for test_locator.TestDw.test_search Coverage Results" MODIFIED="1628849436556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_demo_TestDemo_test_search.coverage" NAME="pytest for test_demo.TestDemo.test_search Coverage Results" MODIFIED="1629287419797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_params_TestDw_test_params_xiaomi.coverage" NAME="pytest for test_params.TestDw.test_params_xiaomi Coverage Results" MODIFIED="1628936856502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_locator_TestDw_test_myinfo.coverage" NAME="pytest for test_locator.TestDw.test_myinfo Coverage Results" MODIFIED="1628937245082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_dwpytest_TestDw.coverage" NAME="pytest for test_dwpytest.TestDw Coverage Results" MODIFIED="1628840976173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_main_TestMain_test_window.coverage" NAME="pytest for test_main.TestMain.test_window Coverage Results" MODIFIED="1629335549434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui_testramework/test_case" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_in_test_wrapper_py.coverage" NAME="pytest in test_wrapper.py Coverage Results" MODIFIED="1629258419828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1629723913859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_xueqiu/testcases" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_params_TestParams.coverage" NAME="pytest for test_params.TestParams Coverage Results" MODIFIED="1628937761561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_hamrest_test_hamcrest.coverage" NAME="pytest for test_hamrest.test_hamcrest Coverage Results" MODIFIED="1628936737888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+    <SUITE FILE_PATH="coverage/Hogwarts$pytest_for_test_appium_web_TestAppiumWeb_test_search.coverage" NAME="pytest for test_appium_web.TestAppiumWeb.test_search Coverage Results" MODIFIED="1629038115936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_test" />
+  </component>
+</project>

@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "摩羯座",
+    "children" : [ {
+      "name" : "7992-MainThread",
+      "children" : [ {
+        "name" : "test_broken",
+        "uid" : "b12436c40279123d",
+        "parentUid" : "d0a420acb7e067f12be577a959d5a662",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618283519873,
+          "stop" : 1618283519874,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_success",
+        "uid" : "4a276c4b861dfdb3",
+        "parentUid" : "d0a420acb7e067f12be577a959d5a662",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618283519745,
+          "stop" : 1618283519745,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_skip",
+        "uid" : "4bfb3672db5e022e",
+        "parentUid" : "d0a420acb7e067f12be577a959d5a662",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1618283519869,
+          "stop" : 1618283519869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_failure",
+        "uid" : "6033dfa9e6206f87",
+        "parentUid" : "d0a420acb7e067f12be577a959d5a662",
+        "status" : "failed",
+        "time" : {
+          "start" : 1618283519749,
+          "stop" : 1618283519749,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d0a420acb7e067f12be577a959d5a662"
+    } ],
+    "uid" : "0865d9c5f556a7a87050d28f095cea79"
+  } ]
+}
